@@ -1,6 +1,6 @@
 {% set name = "nagl" %}
-{% set version = "0.0.1a2" %}
-{% set sha256 = "03f9f18687ffe53d466ee287badb53dce381f09ef7f6b44f7c60fc7bf9da3046" %}
+{% set version = "0.0.1a3" %}
+{% set sha256 = "22c599d79b604afcf693b2c505b2843ca8f1787e067cdbc2253927e2a6b562c6" %}
 
 package:
   name: {{ name|lower }}
